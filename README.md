@@ -1,6 +1,6 @@
 # POO_Trabalho
 # Aluno: Kauã Arruda Machado
-# Professor: Fabrício
+# Professor: Fabricio
 # Encapsulamento:
  O encapsulamento é uma das principais técnicas que define a programação orientada
 a objetos. Se trata de um dos elementos que adicionam segurança à aplicação em uma
